@@ -1,4 +1,4 @@
 # Smoker-Backdoor
-Smoker Backdoor [PHP]
+Smoker Backdoor [PHP] - Maximum Bypass & User friendly
 ###
 Default Password : smoker
